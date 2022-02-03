@@ -1,8 +1,6 @@
 # Olorunfemi Ogunyiola
 Eecutive Summary
-
-
-
+Information technology has shaped the world we live in today and certainly simplified everything. Today a lot of processes are still being simplified to ease our living and this is done with with the help of computers and information system. 
 
 Information Systems Components
 There are 5 Information System components, these include
